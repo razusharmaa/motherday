@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/razusharmaa/motherday/static/css/main.95393fd2.css",
+    "main.js": "/razusharmaa/motherday/static/js/main.e382f4b7.js",
+    "static/js/453.e81f787a.chunk.js": "/razusharmaa/motherday/static/js/453.e81f787a.chunk.js",
+    "index.html": "/razusharmaa/motherday/index.html",
+    "main.95393fd2.css.map": "/razusharmaa/motherday/static/css/main.95393fd2.css.map",
+    "main.e382f4b7.js.map": "/razusharmaa/motherday/static/js/main.e382f4b7.js.map",
+    "453.e81f787a.chunk.js.map": "/razusharmaa/motherday/static/js/453.e81f787a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95393fd2.css",
+    "static/js/main.e382f4b7.js"
+  ]
+}
